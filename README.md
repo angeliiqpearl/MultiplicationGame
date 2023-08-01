@@ -1,4 +1,4 @@
-# MultiplicationGame
+# MultiplicationGame Production
 
 Multiplication is one of the key operations of mathematics. Having a good understanding of the basic rules of it, will help in solving more complex mathematical problems. We see the application of multiplication in our day to day lives, examples include recognising patterns and for-loops.
 
